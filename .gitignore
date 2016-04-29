@@ -1,0 +1,8 @@
+.gradle/
+build/
+
+# IntelliJ IDEA...
+## module, project, and workspace files
+*.iml
+
+.DS_Store
